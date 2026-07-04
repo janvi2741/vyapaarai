@@ -48,10 +48,9 @@ See `SETUP.md` for full setup details.
 
 ## Screenshots / Demo
 
-[Add a screenshot or short demo GIF of a WhatsApp conversation flow]
+<img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/7428cf54-f7d1-4dd7-accb-7862ed7bd819" />
+
 
 ---
 *Founder project — built to solve a real gap in how Indian SMBs handle customer conversations across language barriers.*
 - **Deployment:** Railway
-
-## Project Structure
